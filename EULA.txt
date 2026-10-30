@@ -1,0 +1,67 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+Transcriptor Fonético del Español - Sonus Vocis
+Versión del acuerdo: 1.0 - 30/10/2026
+
+Lea este acuerdo antes de instalar o usar el software. Al instalarlo o
+usarlo, usted acepta estos términos. Si no está de acuerdo, no lo instale.
+
+1. TITULARIDAD
+El software "Transcriptor Fonético del Español" (el "Software") es propiedad de
+Sonus Vocis ("el Autor").
+Copyright © 2026 Sonus Vocis. Todos los derechos reservados.
+El Software se licencia, no se vende.
+
+2. LICENCIA DE USO
+El Autor le concede una licencia gratuita, no exclusiva e intransferible
+para instalar y usar el Software en sus propios equipos, para fines
+personales, educativos y profesionales.
+
+3. RESTRICCIONES
+Sin autorización escrita del Autor, usted no puede:
+a) vender, alquilar, sublicenciar ni redistribuir el Software, ni
+   publicarlo en otros sitios de descarga (puede enlazar a la página
+   oficial de descarga);
+b) modificar el Software, descompilarlo o aplicar ingeniería inversa,
+   salvo en la medida en que la ley lo permita expresamente;
+c) eliminar o alterar los avisos de copyright o de licencia.
+
+4. COMPONENTES DE TERCEROS
+El Software incluye componentes de código abierto, cuyos avisos y
+licencias se detallan en el archivo THIRD_PARTY_LICENSES.txt. Esos
+componentes se rigen por sus propias licencias, y nada en este acuerdo
+limita los derechos que esas licencias le otorgan.
+
+5. PRIVACIDAD
+El Software funciona localmente en su equipo.
+No recopila ni envía a ningún servidor datos personales, audio ni texto.
+
+6. SIN GARANTÍA
+El Software se entrega "TAL CUAL", sin garantías de ningún tipo, expresas
+o implícitas, incluidas las de comerciabilidad, idoneidad para un fin
+particular y ausencia de errores. Los resultados que produce el Software
+pueden contener imprecisiones, y es responsabilidad del usuario
+verificarlos.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+En la máxima medida permitida por la ley, el Autor no será responsable de
+daños directos, indirectos, incidentales o consecuentes derivados del uso
+o de la imposibilidad de uso del Software.
+
+8. DERECHOS DEL CONSUMIDOR
+Nada en este acuerdo excluye ni limita los derechos irrenunciables que la
+ley aplicable le reconozca como usuario.
+
+9. TERMINACIÓN
+Esta licencia termina automáticamente si usted incumple estos términos.
+Puede terminarla en cualquier momento desinstalando el Software.
+
+10. ACTUALIZACIONES Y CAMBIOS
+El Autor puede publicar nuevas versiones del Software y del presente
+acuerdo. El uso de una versión nueva implica la aceptación de los términos
+que la acompañen.
+
+11. LEY APLICABLE
+Este acuerdo se rige por las leyes de Honduras.
+
+12. CONTACTO
+Consultas sobre este acuerdo o el Software: sonusvocis@gmail.com
