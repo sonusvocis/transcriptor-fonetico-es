@@ -29,3 +29,8 @@ Windows 10 o superior (64 bits).
 
 ¿Encontraste un problema o tienes una sugerencia? Abre un
 [issue](../../issues) en este repositorio.
+
+## Licencia
+
+- Términos de uso: [EULA.txt](EULA.txt)
+- Componentes de terceros: [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt)
