@@ -18,7 +18,8 @@ estudiantes de español.
 
 Descarga el archivo `.zip`, descomprímelo y ejecuta el instalador.
 Instrucciones detalladas dentro del archivo `LEEME.txt` incluido en
-la descarga.
+la descarga. Al instalar o usar esta aplicación aceptas los términos de EULA.txt.
+Las licencias de componentes de terceros están en THIRD_PARTY_LICENSES.txt.
 
 ## Requisitos
 
